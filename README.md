@@ -78,12 +78,7 @@ main()
 
 ## Uso de IA
 
-Este código fue generado con asistencia de Grok (xAI). Se revisó y corrigió:
-
-- Manejo correcto de punteros y memoria en listas y cola.
-- Actualización de índices al eliminar ciudades en el grafo.
-- Limpieza de buffer de entrada para evitar ciclos infinitos.
-- Separación modular de menús y estructuras.
+Se usó de forma puntual para consultar sintaxis de C++ y resolver dudas menores sobre manejo de punteros y entrada de datos. El diseño de las estructuras, la lógica del menú y la mayor parte del código fueron implementados y revisados manualmente.
 
 ## Estructura del repositorio
 
